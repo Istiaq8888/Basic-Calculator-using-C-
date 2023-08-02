@@ -1,0 +1,6 @@
+C:\Users\Md.Istiaq Ahmed\source\repos\CalculatorWin_2\ClassLibraryCalculations\bin\Debug\ClassLibraryCalculations.dll
+C:\Users\Md.Istiaq Ahmed\source\repos\CalculatorWin_2\ClassLibraryCalculations\bin\Debug\ClassLibraryCalculations.pdb
+C:\Users\Md.Istiaq Ahmed\source\repos\CalculatorWin_2\ClassLibraryCalculations\obj\Debug\Engine.csproj.AssemblyReference.cache
+C:\Users\Md.Istiaq Ahmed\source\repos\CalculatorWin_2\ClassLibraryCalculations\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Md.Istiaq Ahmed\source\repos\CalculatorWin_2\ClassLibraryCalculations\obj\Debug\ClassLibraryCalculations.dll
+C:\Users\Md.Istiaq Ahmed\source\repos\CalculatorWin_2\ClassLibraryCalculations\obj\Debug\ClassLibraryCalculations.pdb

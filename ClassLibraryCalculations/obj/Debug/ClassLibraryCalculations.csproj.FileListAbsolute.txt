@@ -1,0 +1,12 @@
+C:\Users\PC GARAGE\source\repos\CalculatorWin\ClassLibraryCalculations\bin\Debug\ClassLibraryCalculations.dll
+C:\Users\PC GARAGE\source\repos\CalculatorWin\ClassLibraryCalculations\bin\Debug\ClassLibraryCalculations.pdb
+C:\Users\PC GARAGE\source\repos\CalculatorWin\ClassLibraryCalculations\obj\Debug\ClassLibraryCalculations.csproj.AssemblyReference.cache
+C:\Users\PC GARAGE\source\repos\CalculatorWin\ClassLibraryCalculations\obj\Debug\ClassLibraryCalculations.csproj.CoreCompileInputs.cache
+C:\Users\PC GARAGE\source\repos\CalculatorWin\ClassLibraryCalculations\obj\Debug\ClassLibraryCalculations.dll
+C:\Users\PC GARAGE\source\repos\CalculatorWin\ClassLibraryCalculations\obj\Debug\ClassLibraryCalculations.pdb
+C:\Users\Md.Istiaq Ahmed\Downloads\Compressed\CalculatorWin_2\CalculatorWin\ClassLibraryCalculations\obj\Debug\ClassLibraryCalculations.csproj.AssemblyReference.cache
+C:\Users\Md.Istiaq Ahmed\Downloads\Compressed\CalculatorWin_2\CalculatorWin\ClassLibraryCalculations\obj\Debug\ClassLibraryCalculations.csproj.CoreCompileInputs.cache
+C:\Users\Md.Istiaq Ahmed\Downloads\Compressed\CalculatorWin_2\CalculatorWin\ClassLibraryCalculations\obj\Debug\ClassLibraryCalculations.dll
+C:\Users\Md.Istiaq Ahmed\Downloads\Compressed\CalculatorWin_2\CalculatorWin\ClassLibraryCalculations\obj\Debug\ClassLibraryCalculations.pdb
+C:\Users\Md.Istiaq Ahmed\Downloads\Compressed\CalculatorWin_2\CalculatorWin\ClassLibraryCalculations\bin\Debug\ClassLibraryCalculations.dll
+C:\Users\Md.Istiaq Ahmed\Downloads\Compressed\CalculatorWin_2\CalculatorWin\ClassLibraryCalculations\bin\Debug\ClassLibraryCalculations.pdb
